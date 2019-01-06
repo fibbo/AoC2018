@@ -3,6 +3,7 @@
 #include <fstream>
 #include <algorithm>
 #include <iostream>
+#include <string>
 
 bool sortbysec(const std::pair<int,int> &a, 
               const std::pair<int,int> &b) 
