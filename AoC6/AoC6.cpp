@@ -1,12 +1,15 @@
+/*
+
+ Advent of Code 2018, Day 6
+ https://adventofcode.com/2018/day/6                                  
+
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <vector>
 
-/************************************************************************/
-/* Advent of Code 2018													*/
-/* https://adventofcode.com/2018/day/6                                  */
-/************************************************************************/
 
 
 struct Point
