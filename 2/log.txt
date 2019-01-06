@@ -1,0 +1,525 @@
+abcdefghjkklmnopqrsstuvwyz
+k occurs twice
+abcdefgijkllmnoppqrstuwxyz
+l occurs twice
+abcdeffhikllmnopqqrstvwxyz
+f occurs twice
+abcdegghijklnoopqrstuvxxyz
+g occurs twice
+bcdefggijklmnopqrstuvwxxyz
+g occurs twice
+abcdefggijkklnopqqrstuvwxz
+g occurs twice
+abcefghiklmmnoppqrstuvwxyz
+m occurs twice
+abcdeeghijklmmnoprsstvwxyz
+e occurs twice
+abccddefgijkmnopqrstuwxyyz
+c occurs twice
+abcdeghikmnoppqrsttuvwxyzz
+p occurs twice
+abcdefghijlmnooprstuwxxyzz
+o occurs twice
+bcddefhijklmnooprstuvwxyzz
+d occurs twice
+abcdefgiklmnoppqrsttuvwxyz
+p occurs twice
+bccdfghijkklmoppqrstuvwxyz
+c occurs twice
+abcdefghiijmnopqrrsstuvwxy
+i occurs twice
+abbcdeefghjklmnoppqtuvwxyz
+b occurs twice
+abcdghijklmnopqqrstuvvwxyz
+q occurs twice
+aabcdefghiikllmopqrstuvwxy
+a occurs twice
+abdefgghijklmnopqrtuuvwxyz
+g occurs twice
+abcdfghijklmnpqrsttuvvxyzz
+t occurs twice
+abcdefgghijjklmnprtuvwxxyz
+g occurs twice
+abcdefghiijlmnopqstuwxxxyz
+i occurs twice
+x occurs three times
+bcdeghijlmmnoppqrsttuvwxyz
+m occurs twice
+abcdefgghijklmooprstuwxyzz
+g occurs twice
+bcdeghijjkkllmnoprstuvwxyz
+j occurs twice
+abbcdefghjklmmnoqrsstuvwxy
+b occurs twice
+abcdefghiijklmnpsstuvwwxyz
+i occurs twice
+bcdefghijkllmmnpqrstvwxxyz
+l occurs twice
+abcdefgiijlmnoprstuvvwxyyz
+i occurs twice
+abcdeffghhijklmnoprstuvwxy
+f occurs twice
+abbcdegghijklmmopqrtuvwxyz
+b occurs twice
+bcdegghhijklmnopqrstuwxxyz
+g occurs twice
+abbdeffgghijklmnopqrsvwxyz
+b occurs twice
+abccdefghijklmnnoqrsuvwxyy
+c occurs twice
+abbcdeffgghjklnoprstuvwxyz
+b occurs twice
+aabbcdefghijklmnopqstuvxyz
+a occurs twice
+abcddefhijklmnoprstuvwxxyz
+d occurs twice
+abccdefghijklmnoqrrsttuwxy
+c occurs twice
+abcddfghijklmopqqsttuvwxyz
+d occurs twice
+abbdefhijklmnnopqrstuvwxyz
+b occurs twice
+accdefghiiijklmnopqrstuwxy
+c occurs twice
+i occurs three times
+abdfggijkllmnoppqrstuvwxyz
+g occurs twice
+abbcdefgijkllmnopqrstuuwyz
+b occurs twice
+abcdefghijjkkmnoopqrstuvyz
+j occurs twice
+abcdeghijjkklmnopqrrsuvxyz
+j occurs twice
+bbcefgijklmnopqrsttuvvwxyz
+b occurs twice
+bbcdefghhjllmnopqrstuvwxyz
+b occurs twice
+abcdeghijlmnopqrsttuuvwxyz
+t occurs twice
+aceghijklmnopqqrstuuvwxxyz
+q occurs twice
+acddefghijkllmnoppqtuvwxyz
+d occurs twice
+abdeffghjklmnopqrstuvvwxyz
+f occurs twice
+abcdeefghijknoppqrtuvwwxyz
+e occurs twice
+abcdefhhiklnopqrrsttuvwxyz
+h occurs twice
+acddfhijkklmnopqrstuvwxyzz
+d occurs twice
+abcdfghijklmmnoppqrtuvwxyz
+m occurs twice
+aabcdeghijkmnpqrsstuvwxyzz
+a occurs twice
+aabcddefhijklnopqrstuwwxyz
+a occurs twice
+abbbdefghijklmnoppqrstvwxy
+b occurs three times
+p occurs twice
+aefghijjklmmnopqrstuvwwxyz
+j occurs twice
+aabcddefgijklnoprstuvwxyyz
+a occurs twice
+abcdeghijklmnopqttuvwxyyzz
+t occurs twice
+abcddeefgijklmnopqrssuwxyz
+d occurs twice
+abcdefghijjjkmnopqrrsuvwxy
+j occurs three times
+r occurs twice
+ccdefghijkklmnopqstuvwxxyz
+c occurs twice
+abcddeefghijklmnpqrtuvwyzz
+d occurs twice
+bbcdefghijlmnpqrsttuuvwxyz
+b occurs twice
+acddefghhijkllmnopqstuvwyz
+d occurs twice
+abcdefghjlnnopqrstuvvwwxyz
+n occurs twice
+abcddefghijklmnopqrstvxxzz
+d occurs twice
+abcdefgiijklmnoppqrstvwxyz
+i occurs twice
+abcdefghijkmnopqrstuxxyyzz
+x occurs twice
+bcddefghiklmnopqrstuwwxyzz
+d occurs twice
+abcdfghijklmmnopqrstuvwxyz
+m occurs twice
+abcdefghijllmnoqrsstuvwwxy
+l occurs twice
+abbdefghijkllmnopqrstuxyyz
+b occurs twice
+abcdeefghikllmnpqrrtuvwxyz
+e occurs twice
+abbefghijklmnnopqrrstuvwxz
+b occurs twice
+acdfghijlmnoppqrstuvwxyyzz
+p occurs twice
+bcdefghijjklmnopqqrstvwxxy
+j occurs twice
+abcdffghhijklmnopqrsttuwyz
+f occurs twice
+abcdefghhijklmopqqstuuvwxz
+h occurs twice
+abcddefghijklmnoqrrsuuvwxz
+d occurs twice
+abcddefghijjklnnopqrstvwxz
+d occurs twice
+abcdeghijklmnoppqrstuvwyzz
+p occurs twice
+abdefghiiijklmnoopqstuvxyz
+i occurs three times
+o occurs twice
+abcefghiiijklmnqrstuvwxxyz
+i occurs three times
+x occurs twice
+abbcdefgijklmnnopqqsuvwxyz
+b occurs twice
+abcdeefgijklmnnoprstuvwyyz
+e occurs twice
+aabcdefghiijmnoopqrstuvwxy
+a occurs twice
+abccdeghijkllmnopqrsttuwxy
+c occurs twice
+bcdefghjklmnnooprstuvwxyzz
+n occurs twice
+abcdefgijkkmnoppqrstuwwxyz
+k occurs twice
+abcdefghijkmnnoppqrstuvxxy
+n occurs twice
+bbcdefghijklmnoqrstuvwxxyz
+b occurs twice
+acdeffghijjklnopqrrstvwxyz
+f occurs twice
+abcdeefhijklmnoqrstuvvwxzz
+e occurs twice
+aabcdeeghilmnopqrstuvwxxyz
+a occurs twice
+abccdefghijjklmnoprsuvvwxy
+c occurs twice
+abcddefgikllmnoopqrstvwxyz
+d occurs twice
+abcdeffghijkkllopqrstuvwxz
+f occurs twice
+abbcdefghiijkklmoprtuvwxyz
+b occurs twice
+bcddefghikmnoppqqrstuvwxyz
+d occurs twice
+abcdeghijkklmnqrstuvwxyyyz
+k occurs twice
+y occurs three times
+aabccdefhhijkmnopqrstuvwxz
+a occurs twice
+abdeffghiijkmmnopqrtuvwxyz
+f occurs twice
+abcdefghijjjkmopqstuvwxyzz
+j occurs three times
+z occurs twice
+abcdefghijklmnoopqrsuwwwxz
+o occurs twice
+w occurs three times
+abcdffghijklmnopqrtuuuvxyz
+f occurs twice
+u occurs three times
+abdefgghijkllmnopqrtuvwwyz
+g occurs twice
+abcdefghjklmmnnopqrstwxyyz
+m occurs twice
+abcdefghijklmnopqrtuvwxxzz
+x occurs twice
+abcdefghiijklmnoopqrrsuwxy
+i occurs twice
+acdefghijklllnnpqrstuvwxyz
+l occurs three times
+n occurs twice
+abcefgghijklmnoqqrstuvvwyz
+g occurs twice
+abcdfgghiijlmnopqqstuvwxyz
+g occurs twice
+abccdfghijllmnnopqrstuvwyz
+c occurs twice
+acdefghhijklmmnoprstuvwxyz
+h occurs twice
+acddefghijkklmnopqrstuvwxz
+d occurs twice
+abcdefgghijkkmnnoqrstvwxyz
+g occurs twice
+abbdefghijklnnopqqrtuvwxyz
+b occurs twice
+abdefghhijklmoqrstuuvwxyyz
+h occurs twice
+bcdefghijklmnopqrsttvwwxyz
+t occurs twice
+abcdeefghijklmnoopqtvwxyzz
+e occurs twice
+abcefghiijlmnnnopqrstuvwxz
+i occurs twice
+n occurs three times
+abcddfghjkklmopqrsttuvwxyz
+d occurs twice
+abcdefghijklnnopprstuvwxyz
+n occurs twice
+aabcdeefghijklmnopqstuvwyz
+a occurs twice
+abbcdefghjkllmnpqrsuvwxxyz
+b occurs twice
+abdefgghijklmmnopqrrsuvxyz
+g occurs twice
+aabcdeefghijkmnopqqrsuvxyz
+a occurs twice
+abccdefghiijklmnopqrsvvwyz
+c occurs twice
+abcdefghijkmmnnoprrstuvwxz
+m occurs twice
+abcdegijklnoopqrrstuvwwxyz
+o occurs twice
+abcdefhjklmnopqrstuvwwwxyz
+w occurs three times
+abccdefgijkmnopqsstuvwxyzz
+c occurs twice
+bcdefghijjkklmmnopqrstuwyz
+j occurs twice
+abcccdefgjklmnoqrsttuvwxyz
+c occurs three times
+t occurs twice
+abcdefghiklmnpprstuvvwxyzz
+p occurs twice
+abcdeffghijklmnoqrttuvwyzz
+f occurs twice
+abcdeghhiklmnooppqrstuvwxy
+h occurs twice
+acdeffhijklmnopqsttuvwxxyz
+f occurs twice
+abccdeffhijklmopqrstuvwxyz
+c occurs twice
+abefgijklmnnopqrsttuvwxyzz
+n occurs twice
+abcdefghijklmmnpqrstuuvwxz
+m occurs twice
+abcdeffghijjklmopqrrsuvwxy
+f occurs twice
+abcdeghjkllmnoppqrstuvxxyz
+l occurs twice
+abcdefghijjkllmnpqsstuvwxz
+j occurs twice
+abcdeffghiijklmnopqrstvxyz
+f occurs twice
+abcdefggijklmnpqstuvwxxyzz
+g occurs twice
+abccdeghjklnopqrstuvwwxyzz
+c occurs twice
+abcdeghhiijklmnopqrrstuvwz
+h occurs twice
+abcefgghjklmnnoqrsstuvwxyz
+g occurs twice
+bcdeefhijkmnoopqrsttuvwxyz
+e occurs twice
+abdeeffghijkllmnopqrsuwxyz
+e occurs twice
+acdefghijkllmnopqrstuvvwxy
+l occurs twice
+aabdefghijkmnnpqqrstuvwxyz
+a occurs twice
+acdeffghijkllmnopqrstvvwxz
+f occurs twice
+acdehijklmnopqqrsstuvwxxyz
+q occurs twice
+abdeffghijkklmnopqqrsuvwxz
+f occurs twice
+abcccdeffghijlmnopqrstuvyz
+c occurs three times
+f occurs twice
+bcdeffghijklmnopqrsttuvxyz
+f occurs twice
+bcdefghijlmmnoppqrsuuvwxyz
+m occurs twice
+abccdefghijklmoqqrrtuvwxyz
+c occurs twice
+abbdefghijkklmnopqqsuvwxyz
+b occurs twice
+bcdeefhjkllmnopqrstuvwxxyz
+e occurs twice
+abceefghhjklnopqrrstuvwxyz
+e occurs twice
+abcdeefghijlmopqrssuvwwxyz
+e occurs twice
+abccdefgghhijklmnoprstuvwz
+c occurs twice
+aaabcdefgghjklmnopqrstwxyz
+a occurs three times
+g occurs twice
+acdfhijklmnoppqrrstuvwxyyz
+p occurs twice
+acdeffghijkkmmopqrstuvwxyz
+f occurs twice
+abdegijkllmnopqrsstuvwxyyz
+l occurs twice
+bcdeefghijklmnpqrsstvwxyyz
+e occurs twice
+acdeffgijklmnopqrrtuvwxyzz
+f occurs twice
+abcefghklmnopqrrsstuvvwxyz
+r occurs twice
+abcccdeghijkklmopqstuvwxyz
+c occurs three times
+k occurs twice
+abbdefhijklmnoopqrrstuvxyz
+b occurs twice
+abbcdefghiijklmnopqrsuvwxy
+b occurs twice
+abcdefgghijmnopqstuuvvwxyz
+g occurs twice
+abcdegghiilmnopqrstuvwxxyz
+g occurs twice
+acefghijjklmopqrssstuvwxyz
+j occurs twice
+s occurs three times
+abcddefgijklmnnoprstuvwyyz
+d occurs twice
+abccefghhiiklmnopqrsuvwxyz
+c occurs twice
+bcdefghiijklmnoqstuvvwxyzz
+i occurs twice
+abdefghhijklmnopprstuvxyzz
+h occurs twice
+abdeefghijkllmnoprsstuvxyz
+e occurs twice
+acefghhijklmmnopqrstuvwxxz
+h occurs twice
+aabcefghijjklmnpqrsttuwxyz
+a occurs twice
+abcdfgghhjklmnnoprstuvwxyz
+g occurs twice
+abcdefhikmnoppqrrstuvwxxyz
+p occurs twice
+acdeffghijklmnoppqrstuvyyz
+f occurs twice
+acdeffghijklmnoopqqrstuvxy
+f occurs twice
+abcdeefghijlmnoqrstvvwwxyz
+e occurs twice
+abdefgghijklmnopqqtuuvwxyz
+g occurs twice
+bbcdefghijklmoopqrttuvwxyz
+b occurs twice
+aabcdghijklmnopqstuvvwwxyz
+a occurs twice
+abcddefghijlmnoqrstuuuvxyz
+d occurs twice
+u occurs three times
+aabcdefghjkllmnopsstuvwxyz
+a occurs twice
+abcfghijklmnopqqrstuvwwxyz
+q occurs twice
+abcffghijklmmnopqrtuvvwxyz
+f occurs twice
+abbcdefgghjklmoopqrstvwxyz
+b occurs twice
+abcdeffghhijklmnoqrstuvwyz
+f occurs twice
+abcdefggijklmnpqrrstuvwxyz
+g occurs twice
+acdefghikllmnopqrsstuvwxxy
+l occurs twice
+aaceffghhijklmnopqrstuvxyz
+a occurs twice
+aabceefghijlmopqrsstuvwxyz
+a occurs twice
+abcdeffgikmnoopqrsttuvwxyz
+f occurs twice
+abcdefghijjkmnopqqstuvxyzz
+j occurs twice
+abcdefghijkklmoqrsstuvwxyz
+k occurs twice
+acdfghijkklmmnopqrtuuvwxyz
+k occurs twice
+abcdfghhhjklmnopqrstuvwwxz
+h occurs three times
+w occurs twice
+aabdeghijklmmnopqrsstuwxyz
+a occurs twice
+abcdefghhhijlmnopqsuvwxyyz
+h occurs three times
+y occurs twice
+bcdefghijklmnopqsstvwxxyyz
+s occurs twice
+abcceghijklmoppqrstuvwxyyz
+c occurs twice
+abcdegijklmmnooprstuvvwxyz
+m occurs twice
+abcdefghijklmnpqrsttuvvwxz
+t occurs twice
+acdefghijklnnpqqrsttuvwxyz
+n occurs twice
+abcdehiijklmnpqrstuvwxyyzz
+i occurs twice
+abcdeghijklmnopqrstuuvwxyz
+u occurs twice
+abcdfghijklmnprstuvwxxyyzz
+x occurs twice
+acdefghhjklmmnopqstuuvwxyz
+h occurs twice
+abbdefghikklmnopqrstuwxyyz
+b occurs twice
+aaabcdefhhijklnopqrsuvwxyz
+a occurs three times
+h occurs twice
+aaabcdefghijklmnpqrstuvxyz
+a occurs three times
+abcdefghjkkllmnoppqrtuwxyz
+k occurs twice
+abccefgghijklmnpqrstuwxyzz
+c occurs twice
+abbcdeefghikllmnoqrtuvwxyz
+b occurs twice
+abcdefgghijkmnopqrsstuvvyz
+g occurs twice
+abddefghillmnnopqrstuvwxyz
+d occurs twice
+abcdegghijlmnopqqrrsuvwxyz
+g occurs twice
+abddeghijklmopqrsstuvwwxyz
+d occurs twice
+aabcdefghijlnoppqrttuvwxyz
+a occurs twice
+abbcdefghijkllmnqrrstuvwxz
+b occurs twice
+bccddefhijklmnopqqstuvwxyz
+c occurs twice
+abcdefghjklmnooopqsuvwxxyz
+o occurs three times
+x occurs twice
+abcdefghhjklmoopqrtuvwwxyz
+h occurs twice
+bcdefghijkklmnopqrstuvxyzz
+k occurs twice
+abcfghiklmnopqrrrstuvvwxyz
+r occurs three times
+v occurs twice
+bcdefghijklmnnopqrrrstuvyz
+n occurs twice
+r occurs three times
+abcceffghijklmnoprstuvwxyz
+c occurs twice
+abdefghijklmopqrsuvwwxxyyz
+w occurs twice
+abcfgghiijlmnopqrrstuvwxyz
+g occurs twice
+abccdeffgijlmnopqsttuvwxyz
+c occurs twice
+abcefghiklmnopqsstuvwxyzzz
+s occurs twice
+z occurs three times
+abcdfghijklmnopqrsstvvwxzz
+s occurs twice
+bcdefghhjklmnnopqrsuvwxyzz
+h occurs twice
+bccdefghijkklmnopqrtuvxyzz
+c occurs twice
+abcdfghhijklmnopqrsuvwwyzz
+h occurs twice
+abdefghijklmnooprstuvwxyzz
+o occurs twice
