@@ -5,8 +5,8 @@
 *.obj
 *.idb
 .vs
-*.vcxproj*
 *.log
 Debug
 Release
-
+*.filters
+*.user
